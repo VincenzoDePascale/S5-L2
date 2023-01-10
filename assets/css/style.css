@@ -27,6 +27,10 @@ hr {
   display: none;
 } /* rimuove l'elemento */
 
+.far {
+  font-size: 2em;
+}
+
 /* HEADER */
 header {
   background: rgb(0, 160, 198);
